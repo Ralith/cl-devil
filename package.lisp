@@ -22,6 +22,7 @@
    #:ENABLEDP
    #:FLIP-IMAGE
    #:GEN-IMAGES
+   #:GEN-IMAGE
    #:GET-DATA
    #:GET-ERROR
    #:GET-INTEGER
