@@ -19,7 +19,7 @@
    #:DETERMINE-TYPE
    #:DISABLE
    #:ENABLE
-   #:ENABLED-P
+   #:ENABLEDP
    #:FLIP-IMAGE
    #:GEN-IMAGES
    #:GET-DATA
